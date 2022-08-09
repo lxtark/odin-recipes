@@ -9,3 +9,7 @@ Hope to learn:
     - Maintenance of repos
 
 Actually learned:
+    - Proper grammer
+    - Basic HTML
+    - More flashy presentation
+    - How to upload and maintain repos
